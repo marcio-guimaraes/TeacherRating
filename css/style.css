@@ -1,0 +1,25 @@
+header{
+    height: 100px;
+    width: 98.7%;
+    background-color: #A4FED3;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#LogoUnB{
+    height: 100px;
+    width: 100px;
+}
+
+header img:last-child{
+    display: block;
+    float: right;
+    margin: 0 auto;
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
